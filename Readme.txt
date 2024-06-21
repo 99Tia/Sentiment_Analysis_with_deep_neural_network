@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8855e0a2ca92b70287fd6e7224e1c145c7cd1e3c9543dafb043e5b0e2f7840a3
-size 284
+
+# Sentiment Analysis using Deep Neural Network and Python.
+
+I trained three different neural networks for this project: a Long Short-Term Memory neural network, a Convolutional Neural Network, and a Simple Neural Network. Our trained Sentiment Classification LSTM Model can accurately predict the user's sentiment regarding a movie review, identifying it as positive or negative, and also predicts the IMDb rating that corresponds with these reviews.
+
